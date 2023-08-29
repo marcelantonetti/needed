@@ -64,8 +64,8 @@ p,
 /* Responsive design rules for devices with width less than or equal to 767px */
 @media screen and (max-device-width: 767px) {
   .bpw-layout {
-    width: 46.96% !important;
-    height: 100%;
+    width: 45% !important;
+    height: 70%;
     right: 0;
     bottom: 0;
     border-radius: 0;
